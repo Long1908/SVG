@@ -1,0 +1,4 @@
+<svg> 
+  <rect x="100" y="60" width="10" height="10" fill="red" />
+  <line lx="1" ly="2" lenght="3" fill="red" />
+</svg>
